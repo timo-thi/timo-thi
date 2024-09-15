@@ -1,5 +1,11 @@
 # 💫 About Me:
-- 👋 Hi, I’m @timo-thi<br>- 👀 I’m interested in programmation, computer science, etc...<br>- 🌱 I’m currently learning in an engineer school<br>- 💞️ I’m looking to collaborate on application/data science projects<br>- 📫 How to reach me ?<br>  - Discord : splashmind<br>  - E-mail : timo.thi@laposte.net
+- 👋 Hi, I’m @timo-thi
+- 👀 I’m interested in programmation, computer science, etc...
+- 🌱 I’m currently learning in an engineer school
+- 💞️ I’m looking to collaborate on application/data science projects
+- 📫 How to reach me ?
+  - Discord : splashmind
+  - E-mail : timo.thi@laposte.net
 
 
 # 💻 Tech Stack:
